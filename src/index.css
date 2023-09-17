@@ -45,7 +45,7 @@ body {
   transition: all 1s ease;
 }
 
-.selected {
+.selected{
   border: 2px solid black;
 }
 
@@ -55,6 +55,7 @@ body {
 }
 .orange {
   background-color: #eb6b56;
+  
 }
 .yellow {
   background-color: #ffc153;
